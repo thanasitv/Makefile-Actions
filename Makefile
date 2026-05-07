@@ -1,3 +1,5 @@
+# Makefile for World Happiness Report 2023 Analysis
+
 RAW_DATA_PATH = raw_data/WHR2023.csv
 PROCESSED_DATA = processed_data/WHR2023_cleaned.csv
 
